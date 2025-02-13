@@ -21,18 +21,26 @@ body {
     margin-right: 150px;
 }
 
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 100vh;
+}
+
 .header_text {
     font-family: 'Nunito';
     font-size: 40px;
     font-weight: bold;
-    color: rgb(255, 255, 255);
-    text-align: center;
-    margin: 20px auto;
+    color: rgb(93, 93, 93);
     background-color: rgba(255, 255, 255, 0.5); /* Transparent white */
     padding: 10px;
     border-radius: 10px;
     display: inline-block;
-    width: fit-content; /* Make the background fit the text */
+    width: auto;
+    text-align: center;
 }
 
 .buttons {
