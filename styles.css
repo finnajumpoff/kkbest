@@ -3,8 +3,12 @@ body {
     justify-content: center;
     align-items: center;
     height: 90vh;
-    background-color: rgb(189, 225, 122);
+    background-image: url('https://media-hosting.imagekit.io//7e673733b5184732/WhatsApp%20Image%202025-02-13%20at%2021.52.23.jpeg?Expires=1834071990&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=haWU25ccRY8MoNrupkUU7yri0WcJ4C-bhrd~Ey3wjYh3fCSLT6tLy~izWK9mHj9DkM4BYAcsCX-VpDKgwYWI-g5GL2c4PK90wW-pHSaf1-hVBqlw5sWq9xu3UlcrMjIfjGmp~YB8G8dTqwQOEPni3AeZa8rYqF5JNSuKmA6swRIXRI3hmsmz0WRFdwRuw2-XlrZHCbk7Nj5tPoQOtZZwO1Zw8fq9R4TKnDBcV-3sgUNPFMtu~VfOsAudnKOn8n32IitQzSzQZ7vk7TzX5jF8tuXLhn64Y0hjOoXN8q1PATraiZm2TAyz95R7DwvgFGnmZ5r6ku02TMzmbG2r1jYMxQ__');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
+
 
 #noButton {
     position: absolute;
